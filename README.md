@@ -5,7 +5,9 @@ Desarrollar un sistema de escritorio en Java para la gestión de pacientes, obst
 
 #USUARIOS PARA INGRESAR:
 USUARIO - CONTRASEÑA:
+
 admin - admin123
+
 obstetra - obstetra123
 
 #🔐 Ingreso al Sistema (Login)
