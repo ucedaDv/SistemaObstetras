@@ -3,7 +3,8 @@
 #🎯 Objetivo General
 Desarrollar un sistema de escritorio en Java para la gestión de pacientes, obstetras y programas preventivos del MINSA, con funcionalidades avanzadas de estadísticas y gráficos para el seguimiento de citas médicas y metas por obstetra.
 
-#USUARIOS PARA INGRESAR:
+USUARIOS PARA INGRESAR:
+
 USUARIO - CONTRASEÑA:
 
 admin - admin123
